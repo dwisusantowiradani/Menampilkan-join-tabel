@@ -1,7 +1,7 @@
 
 
 
-**Menampilkn-join-tabel**
+**Menampilkan-join-tabel**
 
 Langkah2
 
