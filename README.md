@@ -2,6 +2,7 @@
 
 
 **Menampilkn-join-tabel**
+
 Langkah2
 
 buat tabel pelanggan
