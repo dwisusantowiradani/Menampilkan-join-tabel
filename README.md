@@ -1,19 +1,15 @@
 
 
 
-**Menampilkan-join-tabel**
+# **Menampilkan-join-tabel**
 
 Langkah2
 
-buat tabel pelanggan
-
-buat tabel paket_kecepatan
-
-buat tabel transaksi
-
-buat koneksi di konkesi.php
-
-buat halaman index di index.php
+1. buat tabel pelanggan
+1. buat tabel paket_kecepatan
+1. buat tabel transaksi
+1. buat koneksi di konkesi.php
+1. buat halaman index di index.php
 
 Tampilan desain database (CDM / PDM / ERD)
 
