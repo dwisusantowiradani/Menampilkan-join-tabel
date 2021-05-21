@@ -1,6 +1,4 @@
 
-
-
 # **Menampilkan-join-tabel**
 
 Langkah2
@@ -14,7 +12,9 @@ Langkah2
 ### **Tampilan desain database (CDM / PDM / ERD)**
 
 
-![cdm pdm](https://user-images.githubusercontent.com/47032718/118927975-ca812580-b96c-11eb-8169-7f979b2a06fa.JPG)
+![cdm pdm c](https://user-images.githubusercontent.com/47032718/119088439-dfc08780-ba32-11eb-9e58-9c399cf7ea31.JPG)
+
+
 
 
 ![HOME](https://user-images.githubusercontent.com/47032718/118927992-cfde7000-b96c-11eb-9bf9-3c72cf136144.JPG)
